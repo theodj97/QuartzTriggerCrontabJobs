@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuartzFrequencies", "QuartzFrequencies.csproj", "{2A8B846A-630A-4948-809E-62C184EC2763}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A8B846A-630A-4948-809E-62C184EC2763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A8B846A-630A-4948-809E-62C184EC2763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A8B846A-630A-4948-809E-62C184EC2763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A8B846A-630A-4948-809E-62C184EC2763}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E344F51A-20BB-4806-8C25-1F6318852C22}
+	EndGlobalSection
+EndGlobal
